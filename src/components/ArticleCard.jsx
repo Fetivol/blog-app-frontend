@@ -33,7 +33,7 @@ const ArticleCard = ({ className }) => {
               </h4>
               <div className="flex items-center gap-x-2">
                 <span className="bg-[#36B37E] w-fit bg-opacity-20 p-1.5 rounded-full">
-                  <BsCheckLg className="w-1.5 h-1.5 text-[#36B37E]" />
+                  <BsCheckLg className="w-4 h-4 text-[#36B37E]" />
                 </span>
                 <span className="italic text-dark-light text-xs md:text-sm">
                   Verified writer
